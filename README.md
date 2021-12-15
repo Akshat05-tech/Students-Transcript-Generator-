@@ -6,6 +6,11 @@ Implemented the code of designing the transcript pdf using **fpdf** library in *
 
 The code is dynamic enough to incorporate new branches, additional courses and semesters and it even automatically adjusts the layout of pdf according to different programmes eg. B.Tech, M.Tech, PhD.
 
+![](sample_output_1.png) 
+
+![](sample_output_2.png)
+
+
 To run, clone the repository and run the following command in your terminal
 
 ```cmd
